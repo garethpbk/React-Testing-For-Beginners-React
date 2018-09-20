@@ -33,5 +33,6 @@ module.exports = {
     test: true,
     expect: true,
     afterEach: true,
+    jest: true,
   },
 };
